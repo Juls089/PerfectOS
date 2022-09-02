@@ -115,6 +115,11 @@ body {
 
 }
 .styles > * {
+
+        position: absolut;
+        right: 5%;
+        top: 10%;
+
 	width: 20px;
 	height: 20px;
 
