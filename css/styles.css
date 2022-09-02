@@ -104,6 +104,12 @@ body {
 }
 .styles{
 	display: flex;
+
+        position: relative;
+        right: 5%;
+        top: 10%;
+
+
 	justify-content: space-between;
 	max-width:200px;
     margin: 30px auto;
