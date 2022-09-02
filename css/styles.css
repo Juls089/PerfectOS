@@ -103,7 +103,6 @@ body {
 	display: none;
 }
 .styles{
-	display: flex;
 
         position: relative;
         right: 5%;
@@ -116,6 +115,11 @@ body {
 
 }
 .styles > * {
+
+        position: relative;
+        right: 5%;
+        top: 10%;  
+
 	width: 20px;
 	height: 20px;
 
